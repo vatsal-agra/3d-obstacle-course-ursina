@@ -34,6 +34,7 @@ Fall off? Press **F5** to restart.
 ```bash
 # Install dependencies
 pip install ursina
+pip install playsound
 
 # Run the game
 python obby.py
